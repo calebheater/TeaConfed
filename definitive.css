@@ -1,0 +1,158 @@
+@charset "utf-8";
+body {
+	background-color:#000034;
+}
+
+#primary {
+	background-color:#999999;
+	width:100%;
+}
+
+#primaryheader {
+	color:#000034;
+	
+	position:absolute;
+	right:250px;
+	top:70px;
+	
+	font-size:50px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+}
+
+nav {
+}
+
+ul {
+	list-style-type:none;
+	width:95%;
+	text-align:center;
+	
+}
+
+li {
+	display:inline-block;
+	background-color:#471901;
+	width:20%;
+	
+	font-size:28px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:#FFFFFF;
+}
+
+#main {
+	background-color:#999999;
+	height:500px;
+	margin-left:50px;
+	margin-right:50px;
+}
+
+#contact {
+	font-size:18px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a {
+	text-decoration:none;
+	color:#FFFFFF;
+}
+
+a:hover {
+	text-decoration:none;
+	color:#FFFD00
+}
+
+#aboutheader {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:75px;
+	text-align:center;
+	padding-top:50px;
+}
+
+#aboutcontent {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:16px;
+	text-align:center;
+	font-style:oblique;
+	padding:25px;
+}
+
+#gtbrief {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:18px;
+	padding-left:25px;
+}
+
+#chambrief {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:18px;
+	padding-left:25px;
+}
+
+#chaibrief {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:18px;
+	padding-left:25px;
+}
+
+#spbrief {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:18px;
+	padding-left:25px;
+}
+
+#greenhead {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:50px;
+	text-align:center;
+	padding-top:50px;
+}
+
+#greencontent {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:18px;
+	text-align:center;
+	padding:25px;
+}
+
+#chamhead {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:50px;
+	text-align:center;
+	padding-top:50px;
+}
+
+#chamcontent {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:18px;
+	text-align:center;
+	padding:25px;
+}
+
+#chaihead {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:50px;
+	text-align:center;
+	padding-top:50px;
+}
+
+#chaicontent {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:18px;
+	text-align:center;
+	padding:25px;
+}
+
+#hbhead {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:50px;
+	text-align:center;
+	padding-top:50px;
+}	
+
+#hbcontent {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:18px;
+	text-align:center;
+	padding:25px;
+}
